@@ -1,5 +1,5 @@
 # SwipeDelMenuLayout
-[![](https://jitpack.io/v/mcxtzhang/SwipeDelMenuLayout.svg)](https://jitpack.io/#mcxtzhang/SwipeDelMenuLayout)
+[![](https://www.jitpack.io/v/tianqiujie/SwipeDelMenuLayout.svg)](https://www.jitpack.io/#tianqiujie/SwipeDelMenuLayout
 
 #### [中文版文档](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/README-cn.md)
 
